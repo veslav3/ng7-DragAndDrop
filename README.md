@@ -1,6 +1,6 @@
 # drag-me
  `drag-me` is a custom drag and drop module for angular applications provideing features like
- - darg and drop any where in the dom
+ - drag and drop any where in the dom
  - custom callbacks for each event
  - able to carry data in drag element
  - custom styling
